@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Nikhil Bola Kamath ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-🚀 Hi there! I'm a grad student in Computer Science at USC, merging the paths of a developer and a researcher. My passion? Advancing the future of Autonomous Vehicles 🚗💨 and AI 🤖✨. 
+🚀 Hi there! I graduated from USC with a Master's degree in Computer Science, merging the paths of a developer and a researcher. My passion? Advancing the future of Autonomous Vehicles 🚗💨 and AI 🤖✨. 
 ```
 Here's a snapshot: 
   |- Intersection of Innovation - Where coding meets curiosity, creating smarter, ethical tech solutions. 
