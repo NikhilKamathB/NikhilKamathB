@@ -24,7 +24,7 @@ Here's a snapshot:
   |- Collaborate to Elevate - Eager to connect with tech enthusiasts and dreamers. 
 ```
 Let's shape the future together! 🌟 Together, we code the future. 🌟  
-* 🌍  I'm based in San Francisco
+* 🌍  I'm based in Redwood City, CA
 * 🖥️  See my portfolio at [Nikhil Bola Kamath](http://kamath.work) 
 * ✉️  You can contact me at [nikhilbolakamath@gmail.com](mailto:nikhilbolakamath@gmail.com)
 
